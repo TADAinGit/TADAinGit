@@ -56,10 +56,10 @@ innovative user interfaces ✨ and robust backend systems ⚙️.
 
 <details open>
 <summary><h2 style="font-weight:700;">📨 Let's chat</h2></summary>
-<div align="center" style="display:flex;gap:2rem;justify-content:center;align-items:center;">
-<a href="https://fb.com/TADA.be.DEV"><img width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-1024.png"/></a>
-<a href="https://linkedin.com/in/tada1512"><img width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/></a>
-<a href="https://discordapp.com/users/510429673503850526"><img width="40px" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-512.png"/></a>
+<div align="center">
+<a style="margin-right:20px;" href="https://fb.com/TADA.be.DEV"><img width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-1024.png"/></a>
+<a style="margin-right:20px;" href="https://linkedin.com/in/tada1512"><img width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/></a>
+<a style="margin-right:20px;" href="https://discordapp.com/users/510429673503850526"><img width="40px" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-512.png"/></a>
 </div>
 
 </details>
