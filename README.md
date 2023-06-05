@@ -47,7 +47,7 @@ innovative user interfaces ✨ and robust backend systems ⚙️.
 
 <br/>
 
-<div style="display:flex;gap:1rem;justify-content:center;">
+<div align="center" style="display:flex;gap:1rem;justify-content:center;">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TADAinGit&theme=tokyonight&layout=compact"/>
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=TADAinGit&theme=tokyonight&layout=compact"/>
 </div>
