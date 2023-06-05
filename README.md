@@ -46,9 +46,11 @@ innovative user interfaces ✨ and robust backend systems ⚙️.
 </details>
 <br/>
 
+<div style="display:flex;gap:1rem">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TADAinGit&theme=tokyonight&layout=compact"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=TADAinGit&theme=tokyonight&layout=compact"/>
+</div>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TADAinGit&theme=tokyonight&layout=compact"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=TADAinGit&theme=tokyonight&layout=compact"/>
 <!--
 **TADAinGit/TADAinGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
