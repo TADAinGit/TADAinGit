@@ -64,6 +64,13 @@ innovative user interfaces ✨ and robust backend systems ⚙️.
 
 </details>
 <br/>
+<details open>
+<summary><h2 style="font-weight:700;">👽 Quotes</h2></summary>
+<div align="center">
+<img alt="quote" title="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&type=horizontal"/>
+</div>
+</details>
+
 
 <!--
 **TADAinGit/TADAinGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
