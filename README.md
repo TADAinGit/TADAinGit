@@ -23,33 +23,49 @@ innovative user interfaces ✨ and robust backend systems ⚙️.
 <details open>
 <summary><h2 style="font-weight:700;">📚 Languages and tools</h2></summary>
 <div style="display:flex;gap:0.8rem;margin-top:20px;">
-<img style="pointer-events:none;" width="40px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img style="pointer-events:none;" width="40px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img style="pointer-events:none;" width="40px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img style="pointer-events:none;" width="40px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img style="pointer-events:none;" width="40px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img style="pointer-events:none;" width="40px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img style="pointer-events:none;" width="40px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img style="pointer-events:none;" width="40px" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img style="pointer-events:none;" width="40px" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img style="pointer-events:none;" width="40px" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img style="pointer-events:none;" width="40px" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img style="pointer-events:none;" width="40px" alt="Nest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-<img style="pointer-events:none;" width="40px" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img style="pointer-events:none;" width="40px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img style="pointer-events:none;" width="40px" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img style="pointer-events:none;" width="40px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img style="pointer-events:none;" width="40px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img style="pointer-events:none;" width="40px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img style="pointer-events:none;" width="40px" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img style="pointer-events:none;cursor:default;" width="40px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="Nest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 </details>
+
 <br/>
 
 <div style="display:flex;gap:1rem;justify-content:center;">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TADAinGit&theme=tokyonight&layout=compact"/>
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=TADAinGit&theme=tokyonight&layout=compact"/>
 </div>
+
+<br/>
+
+<details open>
+<summary><h2 style="font-weight:700;">📨 Let's chat</h2></summary>
+<div style="display:flex;gap:2rem;justify-content:center;align-items:center;">
+<span style="font-size:32px;">👉</span>
+<a href="https://fb.com/TADA.be.DEV"><img width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-1024.png"/></a>
+<a href="https://linkedin.com/in/tada1512"><img width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/></a>
+<a href="https://discordapp.com/users/510429673503850526"><img width="40px" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-512.png"/></a>
+<span style="font-size:32px;">👈</span>
+</div>
+
+</details>
+<br/>
 
 <!--
 **TADAinGit/TADAinGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
