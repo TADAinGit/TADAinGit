@@ -34,7 +34,7 @@ innovative user interfaces ✨ and robust backend systems ⚙️.
 <img style="pointer-events:none;cursor:default;" width="40px" title="Spring" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img style="pointer-events:none;cursor:default;" width="40px" title="Node" alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img style="pointer-events:none;cursor:default;" width="40px" title="Express" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img style="pointer-events:none;cursor:default;" width="40px" title="Nest" alt="Nest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" title="Nest" alt="Nest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
 <img style="pointer-events:none;cursor:default;" width="40px" title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img style="pointer-events:none;cursor:default;" width="40px" title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img style="pointer-events:none;cursor:default;" width="40px" title="Redux" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
@@ -42,7 +42,7 @@ innovative user interfaces ✨ and robust backend systems ⚙️.
 <img style="pointer-events:none;cursor:default;" width="40px" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img style="pointer-events:none;cursor:default;" width="40px" title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img style="pointer-events:none;cursor:default;" width="40px" title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img style="pointer-events:none;cursor:default;" width="40px" title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" />  
+<img style="pointer-events:none;cursor:default;" width="40px" title="Magento" alt="Magento" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" />  
 </div>
 </details>
 
