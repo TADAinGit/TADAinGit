@@ -42,6 +42,7 @@ innovative user interfaces ✨ and robust backend systems ⚙️.
 <img style="pointer-events:none;cursor:default;" width="40px" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img style="pointer-events:none;cursor:default;" width="40px" title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img style="pointer-events:none;cursor:default;" width="40px" title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img style="pointer-events:none;cursor:default;" width="40px" title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" />  
 </div>
 </details>
 
